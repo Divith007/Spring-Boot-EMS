@@ -265,24 +265,6 @@ http://localhost:8080/api/employees/1
 
 ---
 
-# Screenshots to Add
-
-You can add screenshots here after uploading images to GitHub.
-
-## Login Page
-```md
-![Login Page](screenshots/login.png)
-```
-
-## Dashboard
-```md
-![Dashboard](screenshots/dashboard.png)
-```
-
-## Postman API Testing
-```md
-![Postman](screenshots/postman.png)
-```
 
 ---
 
